@@ -2,9 +2,9 @@ Rencana Pelatihan RPL
 - Programming Language
   * Javascript
   * PHP
-  * Golang
+  * Python
 - Framework
   * Javascript
     ^ React
   * PHP
-    ^ Codeigniter
+    ^ Laravel
