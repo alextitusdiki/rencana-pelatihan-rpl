@@ -2,12 +2,13 @@ Rencana Pelatihan RPL
 - Programming Language
   * Javascript
   * PHP
-  * Golang
+  * Python
 - Framework
   * Javascript
     ^ React
     ^ Angular
     ^ Express
   * PHP
-    ^ Codeigniter
+    ^ Laravel
 - Menjadi Youtuber seperti Windah Basudara
+
